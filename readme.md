@@ -1,1 +1,1 @@
-<p>Este projeto é a simulaçào de um carrinho de compras da shopee, desenvolvido como parte da formação em Node.js da <a href="https://github.com/digitalinnovationone/formacao-nodejs.git">Digital Innovation One (DIO)</a>.</p>
+<p>Este projeto é a simulação de um carrinho de compras da shopee, desenvolvido como parte da formação em Node.js da <a href="https://github.com/digitalinnovationone/formacao-nodejs.git">Digital Innovation One (DIO)</a>.</p>
